@@ -14,7 +14,7 @@ function setup() {
 
   // 創建 iframe 並設置屬性
   let iframe = createElement('iframe');
-  iframe.attribute('src', 'https://www.bilibili.com/video/BV13y4y1g7uW/?spm_id_from=333.337.search-card.all.click');
+  iframe.attribute('src', 'https://www.et.tku.edu.tw/');
   iframe.attribute('width', '100%');
   iframe.attribute('height', '100%');
   iframe.style('position', 'absolute');
